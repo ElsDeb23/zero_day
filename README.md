@@ -1,1 +1,1 @@
-This is the vagrant directory
+0x00-vagrant
